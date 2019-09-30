@@ -1,4 +1,4 @@
-# creature-features
+# Sea Creatures
 
 Send me a picture of the coolest sea creature you can find.
 
