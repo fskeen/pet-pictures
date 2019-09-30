@@ -13,3 +13,6 @@ Send me a picture of the coolest sea creature you can find.
 7. Type `git commit -m "An amazing pet photo!"`
 8. Type `git push origin your-name`
 9. Yay! You pushed to github.
+
+
+SQUIDS ARE COOL
