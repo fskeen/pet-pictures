@@ -1,4 +1,5 @@
 # Sea Creatures
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Ctenophora!")
 
 Send me a picture of the coolest sea creature you can find.
 
