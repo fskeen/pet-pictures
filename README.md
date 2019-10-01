@@ -6,7 +6,7 @@ Send me a picture of the coolest sea creature you can find.
 
 1. Fork the repository by hitting the "Fork" button.
 2. Copy the clone link from the "clone or download" button.
-3. Open your IDE, go to the terminal, and type `git clone [link goes here]`
+3. Open your code editor, go to the terminal, and type `git clone [link goes here]`
 4. Make a new HTML file called `your-name.html` and insert an image.
 5. In your terminal, type `git checkout -b your-name`.
 6. In your terminal, type `git add .`
