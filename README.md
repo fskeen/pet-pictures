@@ -14,7 +14,7 @@ Send me a picture of the coolest sea creature you can find.
 8. Type `git push origin your-name`
 9. Yay! You pushed to github.
 
-10. Stretch goal!!! Make a pull request that compares YOUR master branch (not mine) to your new code! Check out the [github documentation](https://help.github.com/en/articles/creating-a-pull-request) to see how to do that.
+10. Stretch goal!!! Make a pull request that compares YOUR master branch (not mine) to your new branch! Check out the [github documentation](https://help.github.com/en/articles/creating-a-pull-request) to see how to do that.
 
 
-SQUIDS ARE COOL
+SQUIDS ARE COOL (true fact)
