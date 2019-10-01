@@ -12,7 +12,9 @@ Send me a picture of the coolest sea creature you can find.
 6. In your terminal, type `git add .`
 7. Type `git commit -m "An amazing pet photo!"`
 8. Type `git push origin your-name`
-9. Yay! You pushed to github.
+9. Yay! You pushed to github. Pat yourself on the back and get a good night's sleep.
+
+10. Stretch goal!!! Make a pull request that compares YOUR master branch (not mine) to your new branch! Check out the [github documentation](https://help.github.com/en/articles/creating-a-pull-request) to see how to do that.
 
 
-SQUIDS ARE COOL
+SQUIDS ARE COOL (true fact)
